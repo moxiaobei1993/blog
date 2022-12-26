@@ -1,7 +1,7 @@
 
 <p align='center'>
     <img src="https://badgen.net/github/issues/moxiaobei1993//blog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-12-26 12:39:33"/>
+    <img src="https://badgen.net/badge/last-commit/2022-12-26 12:40:05"/>
     <img src="https://badgen.net/github/forks/moxiaobei1993//blog"/>
     <img src="https://badgen.net/github/stars/moxiaobei1993//blog"/>
     <img src="https://badgen.net/github/watchers/moxiaobei1993//blog"/>
@@ -20,8 +20,17 @@
 </details>
             
 <details open>
-<summary>网站	[6篇]</summary>
+<summary>破解	[1篇]</summary>
 
+- 2022-12-26 [ 一劳永逸破解 Typora 全系列](https://github.com/moxiaobei1993/blog/issues/8) 
+
+
+</details>
+            
+<details open>
+<summary>网站	[7篇]</summary>
+
+- 2022-12-26 [ 一劳永逸破解 Typora 全系列](https://github.com/moxiaobei1993/blog/issues/8) 
 - 2022-12-26 [后续博客更新的一点想法](https://github.com/moxiaobei1993/blog/issues/6) 
 - 2022-12-26 [找到问题原因了](https://github.com/moxiaobei1993/blog/issues/5) 
 - 2022-12-26 [是否是删除了src文件夹](https://github.com/moxiaobei1993/blog/issues/4) 
