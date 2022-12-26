@@ -1,7 +1,7 @@
 
 <p align='center'>
     <img src="https://badgen.net/github/issues/moxiaobei1993//blog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-12-26 13:19:48"/>
+    <img src="https://badgen.net/badge/last-commit/2022-12-26 13:20:42"/>
     <img src="https://badgen.net/github/forks/moxiaobei1993//blog"/>
     <img src="https://badgen.net/github/stars/moxiaobei1993//blog"/>
     <img src="https://badgen.net/github/watchers/moxiaobei1993//blog"/>
@@ -28,8 +28,9 @@
 </details>
             
 <details open>
-<summary>网站	[8篇]</summary>
+<summary>网站	[9篇]</summary>
 
+- 2022-12-26 [hugo 搭建 github 网站并使用 actions 自动部署](https://github.com/moxiaobei1993/blog/issues/10) 
 - 2022-12-26 [Typora 自动上传图片到图片云(七牛云、smms)](https://github.com/moxiaobei1993/blog/issues/9) 
 - 2022-12-26 [ 一劳永逸破解 Typora 全系列](https://github.com/moxiaobei1993/blog/issues/8) 
 - 2022-12-26 [后续博客更新的一点想法](https://github.com/moxiaobei1993/blog/issues/6) 
