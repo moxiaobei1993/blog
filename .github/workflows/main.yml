@@ -16,13 +16,13 @@ jobs:
         pip3 install matplotlib --user
     - name: run python script
       env:
-        GITHUB_LOGIN: johnnian
+        GITHUB_LOGIN: moxiaobei1993
         GITHUB_TOKEN: ${{ secrets.BLOG_SECRET }}
       run: python3 main.py
     - name: config git info
       run: |
-        git config --global user.email "johnnian@126.com"
-        git config --global user.name "johnnian"
+        git config --global user.email "wanbeibei1993@gmail.com"
+        git config --global user.name "moxiaobei1993"
     - name: commit change
       run: |
         git checkout master
@@ -30,7 +30,7 @@ jobs:
         git commit -m "Update from Github Action"
     - name: push change
       env:
-        GITHUB_LOGIN: johnnian
+        GITHUB_LOGIN: moxiaobei1993
         GITHUB_TOKEN: ${{ secrets.BLOG_SECRET }}
       run: |
         git push https://$GITHUB_LOGIN:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git
