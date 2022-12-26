@@ -1,2 +1,7 @@
 theme: jekyll-theme-modernist
 markdown: GFM
+
+title: 莫小贝的博客
+##description: 可能是地球上最浪的网站
+show_downloads: true
+google_analytics:
