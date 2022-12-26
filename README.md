@@ -1,7 +1,7 @@
 
 <p align='center'>
     <img src="https://badgen.net/github/issues/moxiaobei1993//blog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-12-26 12:22:22"/>
+    <img src="https://badgen.net/badge/last-commit/2022-12-26 12:39:33"/>
     <img src="https://badgen.net/github/forks/moxiaobei1993//blog"/>
     <img src="https://badgen.net/github/stars/moxiaobei1993//blog"/>
     <img src="https://badgen.net/github/watchers/moxiaobei1993//blog"/>
@@ -11,6 +11,14 @@
     <img src="assets/wordcloud.png" title="词云" alt="词云" href="https://moxiaobei1993.github.io//blog/">
 </summary>  
 
+<details open>
+<summary>vps相关	[1篇]</summary>
+
+- 2022-12-26 [github 访问慢、卡等痛点如何解决](https://github.com/moxiaobei1993/blog/issues/7) 
+
+
+</details>
+            
 <details open>
 <summary>网站	[6篇]</summary>
 
